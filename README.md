@@ -9,7 +9,8 @@ A full-stack application designed to track products from various online sellers.
 Access the live application here : http://54.204.173.103/ (Note: The site URL may change).
 
 ### Screenshots
-![Product Tracking Interface](https://github.com/user-attachments/assets/8bdc8206-02c3-491f-9c32-0657f7713605)
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/2f656431-9206-44b3-a6b5-cf33f8347c4c">
+
 
 ### Key Features
 - **Real-Time Product Tracking:** Aggregates and monitors products across various online platforms, providing up-to-date product information.
