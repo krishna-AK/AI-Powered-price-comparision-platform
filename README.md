@@ -6,10 +6,11 @@
 A full-stack application designed to track products from various online sellers. Developed with a robust backend using Python and FastAPI and a dynamic frontend with Angular, this platform offers a seamless experience for tracking product details, prices, and specifications from multiple sources.
 
 ### Live Application
-Access the live application here : http://54.204.173.103/ (Note: The site URL may change).
+Access the live application here : https://fyndbest.com
 
 ### Screenshots
-<img width="1280" alt="image" src="https://github.com/user-attachments/assets/2f656431-9206-44b3-a6b5-cf33f8347c4c">
+<img width="1277" alt="image" src="https://github.com/user-attachments/assets/5849abe2-dd48-40ca-bbc2-5a4b3b32aed0">
+
 
 
 ### Key Features
