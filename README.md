@@ -1,4 +1,4 @@
-# Product Aggregator and Tracker (Pre-Release)
+# Product Aggregator and Tracker
 
 **A Comprehensive Full-Stack Application for Real-Time Product Tracking**
 
