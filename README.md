@@ -9,7 +9,11 @@ A full-stack application designed to track products from various online sellers.
 Access the live application here : https://fyndbest.com
 
 ### Screenshots
-<img width="1277" alt="image" src="https://github.com/user-attachments/assets/5849abe2-dd48-40ca-bbc2-5a4b3b32aed0">
+![image](https://github.com/user-attachments/assets/3ad98102-9a57-496d-bd58-fc91271226d4)
+![image](https://github.com/user-attachments/assets/91b98d1e-a2c2-47c0-b10c-d2ae43b101d7)
+
+
+
 
 
 
