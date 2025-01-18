@@ -36,7 +36,6 @@ Access the live application here : https://fyndbest.com
 
 ### Developed By
 - **Krishna Akasam:** [imkrishnaak@gmail.com](mailto:imkrishnaak@gmail.com)
-- **Venkat Nijagala:** [venkat.nijagala@gmail.com](mailto:venkat.nijagala@gmail.com)
 
 ### Contact
 For any inquiries or feedback, please contact the developers at the emails listed above.
