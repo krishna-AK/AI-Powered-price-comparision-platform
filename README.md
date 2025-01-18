@@ -1,6 +1,6 @@
-# Product Aggregator and Tracker
+# Product Aggregation Platform
 
-**A Comprehensive Full-Stack Application for Real-Time Product Tracking**
+**A comprehensive Full-Stack Platform for Tracking a Wide Range of Products from Multiple Online Sellers**
 
 ### Project Overview
 A full-stack application designed to track products from various online sellers. Developed with a robust backend using Python and FastAPI and a dynamic frontend with Angular, this platform offers a seamless experience for tracking product details, prices, and specifications from multiple sources.
