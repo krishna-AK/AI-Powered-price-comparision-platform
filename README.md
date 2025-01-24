@@ -4,10 +4,11 @@
 Access the live application here : https://fyndbest.com
 
 ### Screenshots
-![image](https://github.com/user-attachments/assets/3ad98102-9a57-496d-bd58-fc91271226d4)
+<img src="https://github.com/user-attachments/assets/3ad98102-9a57-496d-bd58-fc91271226d4" width="400">
 
+<img src="https://github.com/user-attachments/assets/d5eeabfb-fabc-48a6-9b1a-b47cd7208e5b" width = "400">
 
-![image](https://github.com/user-attachments/assets/198a8c1a-65d0-438f-b8f0-33c7a36acd24)
+<img src="https://github.com/user-attachments/assets/5e6215e2-0e9e-4b2d-8d87-a2452693b463" width = "400">
 
 
 
