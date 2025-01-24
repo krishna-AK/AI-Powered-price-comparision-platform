@@ -1,4 +1,4 @@
-# Product Aggregation Platform
+# AI powered Product Aggregator
 
 ### Live Application
 Access the live application here : https://fyndbest.com
@@ -24,7 +24,7 @@ A full-stack application designed to track products from various online sellers.
 
 ### Key Features
 - **Real-Time Product Tracking:** Aggregates and monitors products across various online platforms, providing up-to-date product information.
-- **Integrated AI Capabilities:** Utilizes ChatGPT for extracting and aggregating product details, prices, and specifications from multiple platforms.
+- **Integrated AI Capabilities:** Utilizes LLMs for extracting and aggregating product details, prices, and specifications from multiple platforms.
 - **Scalable & Secure Deployment:** Leveraged AWS services including S3 and EC2 for secure, scalable deployment.
 - **Efficient Data Management:** Implemented MongoDB for managing and storing large volumes of product data.
 - **CI/CD Implementation:** Managed codebase with Git and implemented CI/CD pipelines using GitHub Actions, ensuring a polished and production-ready application.
