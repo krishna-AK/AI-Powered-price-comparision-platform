@@ -36,14 +36,8 @@ A full-stack application designed to track products from various online sellers.
 - **AI Integration:** ChatGPT
 - **DevOps:** GitHub Actions, CI/CD Pipelines
 
-### Project Duration
-**April 2024 – Present**
-
 ### Developed By
 - **Krishna Akasam:** [imkrishnaak@gmail.com](mailto:imkrishnaak@gmail.com)
-
-### Contact
-For any inquiries or feedback, please contact the developers at the emails listed above.
 
 ### Contact
 For any inquiries or feedback, please contact Krishna Akasam at imkrishnaak@gmail.com / krishna.ucf@gmail.com.
